@@ -457,3 +457,9 @@ section.status {
 .status-box ul li small {
   float: right;
 }
+
+@media (max-width: 1060) {
+  .container {
+    max-width: 90%;
+  }
+}
